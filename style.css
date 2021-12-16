@@ -55,7 +55,7 @@ body {
   transform: translateY(-5px);
 }
 .img {
-  background-image: url('/attach/image-equilibrium.jpg');
+  background-image: url('./attach/image-equilibrium.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -81,7 +81,7 @@ body {
   display: block;
 }
 .view {
-  background-image: url('/attach/icon-view.svg');
+  background-image: url('./attach/icon-view.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -155,7 +155,7 @@ body {
 .profile-img {
   width: 31px;
   height: 31px;
-  background-image: url('/attach/image-avatar.png');
+  background-image: url('./attach/image-avatar.png');
   background-repeat: no-repeat;
   background-size: cover;
   border: 1px solid #fff;
